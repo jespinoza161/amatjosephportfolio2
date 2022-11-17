@@ -1,14 +1,14 @@
-## Portfolio
+## Joseph's Portfolio
 
 ---
 
-### Category Name 1 
+### Ripped Text Effect
 
-[Project 1 Title](/sample_page)
+[Project 1: Ripped Text Effect](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2: Galaxy Cat](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
