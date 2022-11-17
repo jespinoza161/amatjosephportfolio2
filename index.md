@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2: Galaxy Cat](/pdf/sample_presentation.pdf)
+[Project 2: Graffiti Art](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3: Double Exposure Effect](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
