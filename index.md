@@ -29,11 +29,11 @@
 ### My Trinket Projects
 
 - [Project 1: Build a Robot Remix](https://trinket.io/html/c9e0537640)
-- [Project 2: Graffiti Art](http://example.com/)
-- [Project 3: Double Exposure Effect](http://example.com/)
-- [Project 4: Dual Lighting](http://example.com/)
-- [Project 5: Double Exposure](http://example.com/)
-- [Project 6: Kolydiscope](http://example.com/)
+- [Project 2: Sunrise Remix](https://trinket.io/html/beab06a032)
+- [Project 3: Tell a Story Remix](https://trinket.io/html/e64874e49f)
+- [Project 4: My Favorite Celebrity Remix](https://trinket.io/html/30397d7b93)
+- [Project 5: CSS Animation; Earth PJ](https://trinket.io/html/15695eff85)
+- [Project 6: Stickers Remix](https://trinket.io/html/4245ccf28b)
 ---
 
 
