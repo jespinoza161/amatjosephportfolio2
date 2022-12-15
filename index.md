@@ -2,29 +2,38 @@
 
 ---
 
-### Ripped Text Effect
+### My Pixlr Projects 
 
-[Project 1: Ripped Text Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2: Graffiti Art](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Ripped Text Effect]
+<img src="ripped-text-effect.png"/>
 
 ---
-[Project 3: Double Exposure Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Graffiti Art]
+<img src="graffiti.png"/>
 
 ---
+[Project 3: Double Exposure Effect]
+<img src="Double-Exposure-Effect .png"/>
 
-### Category Name 2
+---
+[Project 4: Dual Lighting]
+<img src="dual-lighting.jpg"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Project 5: Double Exposure]
+<img src="double-exposure.jpg"/>
 
+---
+[Project 6: Kaleidoscope Effect]
+<img src="kolydiscop.jpg"/>
+### My Trinket Projects
+
+- [Project 1: Rippped Text Effect](http://example.com/)
+- [Project 2: Graffiti Art](http://example.com/)
+- [Project 3: Double Exposure Effect](http://example.com/)
+- [Project 4: Dual Lighting](http://example.com/)
+- [Project 5: Double Exposure](http://example.com/)
+- [Project 6: Kolydiscope](http://example.com/)
 ---
 
 
