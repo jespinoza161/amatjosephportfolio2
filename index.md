@@ -5,7 +5,7 @@
 ### My Pixlr Projects 
 
 [Project 1: Ripped Text Effect]
-<img src="ripped-text-effect.png"/>
+<img src="images/ripped-text-effect.png?raw=true"/>
 
 ---
 [Project 2: Graffiti Art]
