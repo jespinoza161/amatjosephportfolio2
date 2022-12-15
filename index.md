@@ -28,7 +28,7 @@
 <img src="images/kolydiscop.jpg?raw=true"/>
 ### My Trinket Projects
 
-- [Project 1: Rippped Text Effect](http://example.com/)
+- [Project 1: Build a Robot Remix](https://trinket.io/html/c9e0537640)
 - [Project 2: Graffiti Art](http://example.com/)
 - [Project 3: Double Exposure Effect](http://example.com/)
 - [Project 4: Dual Lighting](http://example.com/)
