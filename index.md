@@ -36,7 +36,9 @@
 - [Project 6: Stickers Remix](https://trinket.io/html/4245ccf28b)
 ---
 
+### My Midterm Project
 
+-[Midterm Project: Soccer 101](https://jespinozamidterm.w3spaces.com)
 
 
 ---
