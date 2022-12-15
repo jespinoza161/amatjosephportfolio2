@@ -9,23 +9,23 @@
 
 ---
 [Project 2: Graffiti Art]
-<img src="graffiti.png"/>
+<img src="images/graffiti.png?raw=true"/>
 
 ---
 [Project 3: Double Exposure Effect]
-<img src="Double-Exposure-Effect .png"/>
+<img src="images/Double-Exposure-Effect .png?raw=true"/>
 
 ---
 [Project 4: Dual Lighting]
-<img src="dual-lighting.jpg"/>
+<img src="images/dual-lighting.jpg?raw=true"/>
 
 ---
 [Project 5: Double Exposure]
-<img src="double-exposure.jpg"/>
+<img src="images/double-exposure.jpg?raw=true"/>
 
 ---
 [Project 6: Kaleidoscope Effect]
-<img src="kolydiscop.jpg"/>
+<img src="images/kolydiscop.jpg?raw=true"/>
 ### My Trinket Projects
 
 - [Project 1: Rippped Text Effect](http://example.com/)
